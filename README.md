@@ -1,1 +1,1 @@
-# Meme-coin-inventory-app
+# meme-coiin-inventory-app
